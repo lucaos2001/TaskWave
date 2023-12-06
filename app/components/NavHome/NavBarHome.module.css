@@ -1,0 +1,28 @@
+.Control {
+    background-color: #F22987;
+    display: flex;
+    justify-content: center; 
+    padding: 0;
+    margin: 0;
+}
+
+.Control ul {
+    list-style-type: none;
+    text-align: center;
+    margin: 0; 
+}
+
+.Control li {
+    display: inline-block;
+    padding: 20px;
+    font-size: 30px;
+    padding-left: 20px;
+}
+
+.voltar {
+    background-color: black;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+    width: 200px;
+}

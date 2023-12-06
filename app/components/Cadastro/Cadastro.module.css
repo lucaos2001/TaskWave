@@ -1,0 +1,39 @@
+.head {
+    padding: 1px;
+    background-color: #F22987;
+}
+
+.formEsqueciSenha label {
+    display: block;
+    margin: 20px;
+}
+
+.formEsqueciSenha label > span {
+    display: inline-block;
+    font-size: 20px;
+    width: 200px;
+}
+
+.formEsqueciSenha input {
+    margin: 40px 0 0 0;
+    font-family: sans-serif;
+    font-size: 20px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.formEsqueciSenha .button {
+    background-color: #F22987;
+    color: #fff;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 4px;
+ }
+  
+.formEsqueciSenha .button:hover {
+    background-color: #BF1182;
+}

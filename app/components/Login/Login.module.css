@@ -1,0 +1,51 @@
+.LoginContainer {
+    width: 60%;
+    text-align: center;
+}
+  
+.LogoContainer {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.LoginContainer .input {
+    width: 100%;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+  
+.LoginContainer .logo {
+    max-width: 100px;
+    margin-right: 20px;
+}
+  
+.LoginContainer .input { 
+    padding: 10px;
+    margin-bottom: 15px;
+}
+  
+.LoginContainer .Button {
+    background-color: #F22987;
+    color: #fff;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 4px;
+ }
+  
+.LoginContainer .Button:hover {
+    background-color: #BF1182;
+}
+  
+.LoginContainer .buttonContainer {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.LoginContainer .Label {
+    display: table-cell;
+    text-align:left;
+}
